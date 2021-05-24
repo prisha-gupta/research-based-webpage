@@ -1,0 +1,82 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Josefin Slab', serif;
+}
+
+table {
+  border-spacing: 1px;
+}
+
+.WebpageH1 {
+  text-align: center;
+  font-family: 'Girassol', cursive;
+  text-decoration: underline;
+  font-size: 40px;
+  color: #ffff1a;
+}
+.MyDetails {
+  font-size: 30px;
+  text-align: right;
+  margin-right: 350px;
+  font-weight: 600;
+  color: #ffffff;
+}
+.TOC {
+  font-size: 30px;
+  margin-left: 10px;
+}
+
+.Headings {
+  font-size: 33px;
+  font-family: 'Girassol', cursive;
+  color: #0066ff;
+}
+.RE {
+  text-align: center;
+  vertical-align: bottom;
+  font-size: 30px;
+  color: #ff4d94;
+  font-weight: 600;
+}
+.REwordsTable {
+  border: 3px black;
+  border-style: solid;
+  padding: 0;
+  width: 50px;
+  height: 35px;
+
+ }
+ .RegularLetters {
+   text-align: center;
+   vertical-align: bottom;
+   font-size: 30px;
+   color: #00264d;
+   font-weight: 600;
+ }
+
+ .NormalText {
+   font-size: 25px;
+   margin-left: 10px;
+   margin-right: 10px;
+ }
+
+ .Right {
+   float: right;
+   margin-left: 10px;
+ }
+
+.Left {
+  float: left;
+  margin-right: 15px;
+}
+
+.FiveRs {
+  color: #33cc33;
+}
+
+.Center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: block;
+}
